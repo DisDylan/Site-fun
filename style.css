@@ -21,15 +21,15 @@ body {
     margin: 50px;
 }
 
-.case:active {
+.case:hover {
     background-color: rgb(0 0 0 / 40%);
 }
 
-.case:nth-child(7):active {
+.case:nth-child(7):hover {
     background-color: rgba(212, 0, 0, 0.4);
 }
 
-.case:nth-child(3):active {
+.case:nth-child(3):hover {
     background-color: rgba(0, 212, 28, 0.4);
 }
 
